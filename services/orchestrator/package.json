@@ -12,7 +12,7 @@
     "@hapi/boom": "^9.1.4",
     "@hapi/wreck": "^17.1.0",
     "json-stream": "^1.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "luxon": "^2.2.0",
     "p-event": "^4.2.0",
