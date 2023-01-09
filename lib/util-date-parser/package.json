@@ -7,6 +7,6 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.21",
-    "luxon": "^2.2.0"
+    "luxon": "^2.5.2"
   }
 }
