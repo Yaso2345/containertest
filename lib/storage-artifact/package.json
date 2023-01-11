@@ -8,7 +8,7 @@
   "dependencies": {
     "joi": "^17.5.0",
     "cls-hooked": "^4.2.2",
-    "knex": "^1.0.2",
+    "knex": "^2.4.0",
     "knex-paginate": "^2.2.0",
     "lodash": "^4.17.15",
     "luxon": "^2.2.0",
